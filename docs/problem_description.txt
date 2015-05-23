@@ -1,0 +1,14 @@
+Problem description/Motivation
+------------------------------
+I am a Formula 1 fan and I was unhappy with my favorite source of news. Their mobile page sometimes shows more then 
+66% ads and only 33% content. Additionally sometimes a late ad overlay caught my intent of clicking a news item and
+directed me the another ad page. Their Android app is slow and shows a loading overlay after every click. Having a bad
+network reception on my daily commute made it hard to read the news.
+
+My idea was to write an RSS reader which loads their rss feed. After the list is updated, all articles will be 
+downloaded, parsed and stored into a database in the background. This way I am able to prefetch the articles where I 
+have reception and use the app without delays (even in airplane mode).
+
+In order to comply with Udacity's Term's of licence (I don't have rights for the real RSS Feed), no real content is 
+downloaded. Instead of loading a real RSS Feed a new news item will be created randomly on startup and when returning to the
+list from a detail view. 

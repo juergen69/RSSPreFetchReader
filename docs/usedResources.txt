@@ -1,0 +1,7 @@
+The Logo is a licence free image from http://findicons.com/icon/221478/tyres
+
+Furthor resources I used:
+- picasso (https://github.com/square/picasso) to handle image downloads.
+- the knowledge of the Android Study Group Vienna
+- Udacities sunshine app
+- developers.android.com

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RSS PreFetch Reader</string>
+<string name="action_settings">Settings</string>
+
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">news.unfried.at</string>
+    <string name="content_authority">at.unfried.news</string>
+    <string name="action_delete">Reset DB</string>
+
+    <!-- Menu related -->
+    <string name="action_share">Share</string>
+</resources>
